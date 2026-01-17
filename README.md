@@ -14,7 +14,7 @@ $config->setMailer(new \PHPAuth\Mailer\PHPMailerDriver([
     // OR
     'secure'    =>  \PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SMTPS,   // 'ssl'
     
-    'host'      =>  'smtp.gmail.com'  
+    'host'      =>  'smtp.gmail.com',
     'port'      =>  587, // relative to security type 
 
     // setFrom
