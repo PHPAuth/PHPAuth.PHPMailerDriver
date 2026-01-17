@@ -1,5 +1,5 @@
 {
-  "name": "phpauth/mailer.phpmailer",
+  "name": "phpauth/phpauth.mailer.phpmailer",
   "description": "PHPMailer driver for PHPAuth",
   "type": "library",
   "require": {
